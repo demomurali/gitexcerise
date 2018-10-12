@@ -1,3 +1,3 @@
 # gitexcerise
 
-demo programs for git 
+demo programs for git excerise
